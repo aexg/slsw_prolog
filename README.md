@@ -10,4 +10,15 @@
 
 - `books.pl`: a knowledge base for books with authors
 
+## Day 2: Fifteen Minutes to Wapner (2019-08-01)
+
+### To remember
+
+- in recursive rules, put the recursive sub-goal at the end for optimization.
+- difference between unification and the built-in predicate 'is' that evaluates arithmetic expressions.
+
+### Code created
+
+- `lists.io`: reverse the elements, find the smallest element, sort the elements
+
 (end of text)
