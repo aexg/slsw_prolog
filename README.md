@@ -21,4 +21,14 @@
 
 - `lists.io`: reverse the elements, find the smallest element, sort the elements
 
+## Day 3: Blowing Up Vegas (2019-08-04)
+
+### To remember
+
+- n/a
+
+### Code created
+
+- `sudoku.pl`: sudoku solution
+
 (end of text)
